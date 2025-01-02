@@ -1,4 +1,5 @@
 ## Hi there 👋
+![unnamed](https://github.com/user-attachments/assets/0e1d5be5-0853-4d96-8d2e-2e28f9f6edce)
 
 <!--
 **paulson83/paulson83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
